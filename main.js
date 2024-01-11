@@ -14,3 +14,7 @@ heartIcon.addEventListener("click", () => {
   likesAmountLabel.innerHTML = likesAmount;
 });
 
+
+
+
+  
